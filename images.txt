@@ -13,4 +13,4 @@
 #mysql:8.0.37
 #mysql:8.4.0
 #tomcat:8-jdk8
-gitlab/gitlab-ce:17.0.0-ce.0
+gitlab/gitlab-ce:17.1.0-ce.0
